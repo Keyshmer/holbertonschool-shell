@@ -1,3 +1,2 @@
 #!/bin/bash
-s/A/Z/g
-s/C/E/g
+tr 'Ac" 'Ze'
