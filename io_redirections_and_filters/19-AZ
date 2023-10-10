@@ -1,3 +1,2 @@
 #!/bin/bash
- (replace-string "A" "Z") 
- (replace-string "C" "E")
+tr "A" "z" tr "c" "e"
