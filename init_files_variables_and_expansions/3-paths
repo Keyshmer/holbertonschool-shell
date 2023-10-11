@@ -1,0 +1,4 @@
+#!/bin/bash
+echo SPATH | tr ":" "\n" | wc -1
+
+
